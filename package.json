@@ -1,0 +1,29 @@
+{
+  "name": "cursor-paging",
+  "version": "0.0.0",
+  "description": "To implement cursor based pagination",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pagination",
+    "paging",
+    "cursor"
+  ],
+  "author": "Christian Tellnes <christian@tellnes.no> (http://christian.tellnes.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "inherits": "^2.0.1",
+    "urlsafe-base64": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tellnes/cursor-paging.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tellnes/cursor-paging/issues"
+  },
+  "homepage": "https://github.com/tellnes/cursor-paging#readme"
+}
