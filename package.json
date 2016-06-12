@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/tellnes/cursor-paging/issues"
   },
-  "homepage": "https://github.com/tellnes/cursor-paging#readme"
+  "homepage": "https://github.com/tellnes/cursor-paging#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
 }
